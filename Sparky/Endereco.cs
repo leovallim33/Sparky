@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sparky
+namespace Sparky{
     public class Endereco
     {
         public Endereco(int id, string cep, string rua, int numero, string bairro, string cidade)
